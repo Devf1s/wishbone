@@ -1,7 +1,7 @@
 ____
 # Wishbone
 ____
-[Site](https://1kiritos1.github.io/wishbone/)
+[Site](https://devf1s.github.io/wishbone/)
 
 ### Used:
 * ***HTML***
